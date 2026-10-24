@@ -1,0 +1,47 @@
+101     CALIBER 26-330 S C            DATE;SWEEP SECONDS                                                                                  45        
+102     CALIBER 324 S C               DATE;SWEEP SECONDS                                                                                  45        
+103     CALIBER CH 28-520 C           CHRONOGRAPH;DATE                                                                                    55        
+104     CALIBER CH 28-520 C FUS       CHRONOGRAPH;DUAL TIME;DAY/NIGHT INDICATOR;DATE                                                      55        
+105     CALIBER 30-255 PS             SMALL SECONDS                                                                                       65        
+106     CALIBER 26-330 S C J SE       WEEKLY CALENDAR;DAY;DATE;WEEK NUMBER                                                                45        
+107     CALIBER 240 HU                WORLD TIME;24H DISPLAY                                                                              48        
+108     CALIBER CH 29-535 PS          CHRONOGRAPH;SMALL SECONDS                                                                           65        
+109     CALIBER CH 29-535 PS Q        PERPETUAL CALENDAR;CHRONOGRAPH;MOON PHASE;DAY/NIGHT INDICATOR;LEAP YEAR INDICATOR                   65        
+110     CALIBER 300 GS AL 36-750      GRANDE SONNERIE;PETITE SONNERIE;MINUTE REPEATER;PERPETUAL CALENDAR;MOON PHASE;ALARM;DATE REPEATER   72        
+111     CALIBER 25-21 REC             HOURS;MINUTES                                                                                       44        
+201     CALIBRE 2121                  DATE                                                                                                40        
+202     CALIBRE 7121                  DATE                                                                                                55        
+203     CALIBRE 4302                  DATE;CENTRE SECONDS                                                                                 70        
+204     CALIBRE 2385                  CHRONOGRAPH;DATE;SMALL SECONDS                                                                      40        
+205     CALIBRE 4401                  FLYBACK CHRONOGRAPH;DATE;SMALL SECONDS                                                              70        
+206     CALIBRE 4308                  ROTATING INNER BEZEL;DATE;CENTRE SECONDS                                                            60        
+207     CALIBRE 5134                  PERPETUAL CALENDAR;MOON PHASE;WEEK INDICATOR;DAY;DATE;MONTH                                         40        
+208     CALIBRE 2954                  FLYING TOURBILLON;CROWN POSITION INDICATOR;POWER RESERVE INDICATOR                                  240       
+209     CALIBRE 4101                  SMALL SECONDS;REVERSE FINE TUNING                                                                   60        
+301     CALIBER JCAM10                TRIPLE AXIS TOURBILLON;MAGICAL ROTARY DISPLAY                                                       60        
+302     CALIBER JCAM19                FLYING TOURBILLON;SOLAR SYSTEM REPRESENTATION                                                       48        
+303     CALIBER JCAM37                TOURBILLON;ANIMATED W16 ENGINE BLOCK                                                                60        
+304     CALIBER JCAA05                BI-COMPAX CHRONOGRAPH;COLUMN WHEEL                                                                  48        
+305     CALIBER JCAM02                SKELETONIZED MOVEMENT                                                                               48        
+306     CALIBER JCFM04                TRIPLE AXIS TOURBILLON;MUSIC BOX;GODFATHER THEME                                                    50        
+307     CALIBER JCFM05                TWIN TRIPLE AXIS TOURBILLON;DECIMAL MINUTE REPEATER;SEQUENTIAL CHRONOGRAPH                          50        
+308     CALIBER JCAM01                HOURS;MINUTES;SMALL SECONDS                                                                         46        
+309     CALIBER JAC44                 CHRONOGRAPH;DATE                                                                                    42        
+401     CALIBRE 3235                  DATE;CENTRE SECONDS                                                                                 70        
+402     CALIBRE 3135                  DATE;CENTRE SECONDS                                                                                 48        
+403     CALIBRE 3230                  CENTRE SECONDS                                                                                      70        
+404     CALIBRE 3130                  CENTRE SECONDS                                                                                      48        
+405     CALIBRE 4131                  CHRONOGRAPH;SMALL SECONDS;TACHYMETER                                                                72        
+406     CALIBRE 4130                  CHRONOGRAPH;SMALL SECONDS;TACHYMETER                                                                72        
+407     CALIBRE 4130                  CHRONOGRAPH;SMALL SECONDS;TACHYMETER                                                                72        
+408     CALIBRE 3285                  GMT;DUAL TIME ZONE;DATE;24H HAND                                                                    70        
+409     CALIBRE 3186                  GMT;DUAL TIME ZONE;DATE;24H HAND                                                                    48        
+410     CALIBRE 3255                  DAY;DATE;CENTRE SECONDS                                                                             70        
+411     CALIBRE 9002                  ANNUAL CALENDAR;DUAL TIME ZONE;MONTH;DATE                                                           72        
+412     CALIBRE 3131                  CENTRE SECONDS;PARAMAGNETIC SHIELD                                                                  48        
+501     CALIBRE 1847 MC               DATE;CENTRE SECONDS                                                                                 40        
+502     HIGH-AUTONOMY QUARTZ          HOURS;MINUTES                                                                                       52560     
+503     CALIBRE 1917 MC               HOURS;MINUTES                                                                                       38        
+504     CALIBRE 9780 MC               HOURS;MINUTES                                                                                       36        
+505     CALIBRE 430 MC                HOURS;MINUTES                                                                                       36        
+506     CALIBRE 1904-CH MC            CHRONOGRAPH;DATE;SMALL SECONDS                                                                      48        

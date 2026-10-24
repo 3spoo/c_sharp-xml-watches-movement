@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\ConsoleAppWatchesMovement\ConsoleAppWatchesMovement\bin\Debug\ConsoleAppWatchesMovement.exe.config
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\ConsoleAppWatchesMovement\ConsoleAppWatchesMovement\bin\Debug\ConsoleAppWatchesMovement.exe
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\ConsoleAppWatchesMovement\ConsoleAppWatchesMovement\bin\Debug\ConsoleAppWatchesMovement.pdb
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\ConsoleAppWatchesMovement\ConsoleAppWatchesMovement\obj\Debug\ConsoleAppWatchesMovement.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\ConsoleAppWatchesMovement\ConsoleAppWatchesMovement\obj\Debug\ConsoleAppWatchesMovement.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\ConsoleAppWatchesMovement\ConsoleAppWatchesMovement\obj\Debug\ConsoleAppWatchesMovement.exe
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\ConsoleAppWatchesMovement\ConsoleAppWatchesMovement\obj\Debug\ConsoleAppWatchesMovement.pdb
